@@ -3893,7 +3893,7 @@ class GitHub extends PjaxAdapter {
       $containers.each(function () {
         const $container = $(this);
         const paddingLeft = ($container.innerWidth() - $container.width()) / 2;
-        $container.css('margin-left', marginLeft - paddingLeft);
+        // $container.css('margin-left', marginLeft - paddingLeft);
       })
     } else {
       $('html').css('margin-left', '');
