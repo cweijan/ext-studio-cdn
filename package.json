@@ -1,0 +1,8 @@
+{
+  "name": "ext-studio-cdn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "author": "cweijan",
+  "license": "ISC"
+}
